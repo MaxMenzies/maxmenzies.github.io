@@ -1,2 +1,4 @@
 name: Max Menzies
 markdown: kramdown
+gems:
+  - jekyll-redirect-from
